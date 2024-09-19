@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about building innovative solution
 ---
 
 ### 🔭 **Current Projects**:
-- **Wonderland**: A travel planner web application to make trip planning hassle-free.
+- **WonderLust**: A travel planner web application to make trip planning hassle-free.
 - **MeraMann**: A social media platform that encourages users to share their thoughts.
 - **Water Quality Monitoring System**: A robotic solution to monitor water quality, aimed at helping fish farmers, environmental agencies, and more.
 
